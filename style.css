@@ -108,7 +108,8 @@ button:before {
 }
 
 button:hover:before {
-  background-color: #26a5d7;
+  background: rgb(175,103,169);
+  background: linear-gradient(90deg, rgba(175,103,169,0.768032212885154) 43%, rgba(0,134,255,0.5551470588235294) 100%);
 }
 
 @media (min-width: 768px) {
